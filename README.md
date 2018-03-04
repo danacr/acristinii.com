@@ -1,3 +1,6 @@
+```shell
+Forked from https://github.com/le4ker/personal-jekyll-theme
+```
 # { Personal } Jekyll Theme
 ![Build Status](https://travis-ci.org/le4ker/personal-jekyll-theme.svg?branch=master)
 ![license](https://img.shields.io/badge/license-MIT-blue.svg?link=https://github.com/dono-app/ios/blob/master/LICENSE)
@@ -5,11 +8,7 @@
 
 { Personal } is a free responsive Jekyll theme, about you :wink:
 
-You can watch it in action [here](https://le4ker.github.io/personal-jekyll-theme/)!
 
-<img src="https://github.com/le4ker/personal-jekyll-theme/raw/master/.github/personal-mobile.mov.gif" height="480">
-
-<img src="https://github.com/le4ker/personal-jekyll-theme/raw/master/.github/personal-desktop.mov.gif" height="600" width="960">
 
 ## What value does { Personal } add
 
@@ -78,8 +77,3 @@ One of the reasons { Personal } is real is the following OSS projects:
   5. [Timeline](https://github.com/kirbyt/timeline-jekyll-theme)
   6. [typed.js](https://github.com/mattboldt/typed.js/)
 
-<div style="font-size:16px;margin:0 auto;width:300px">
-    <a href="https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi">
-        <img src="https://blockchain.info/Resources/buttons/donate_64.png"/>
-    </a>
-</div>
