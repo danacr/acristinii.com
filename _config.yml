@@ -32,7 +32,7 @@ lang: "en"
 author: "Dan Acristinii"
 title: "Dan Acristinii"
 description: "Welcome"
-keywords: "dan, acristinii, personal, resume"
+keywords: "dan, acristinii, personal, resume, cv"
 favicon: "/img/favicon.ico"
 
 ################
@@ -71,7 +71,7 @@ lines: # You can add HTML Tags in the Text
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
 
-me-img: "https://github.com/danacr.png?size=500"
+# me-img: "https://github.com/danacr.png?size=500"
 
 # To use gravatar profile pic uncomment the following line and replace 'email_hash'
 # with your gravatar profile email hash.
@@ -122,7 +122,7 @@ events:
     date: "September 2007 - August 2013"
     description: "Started coding"
 
-# First image of the Timeline
+# # First image of the Timeline
 
 timeline-img: "/img/timeline/default.png"
 
@@ -130,7 +130,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "dan@acristinii.com"
+# email: "dan@acristinii.com"
 
 ################
 # Author Blurb #
@@ -148,14 +148,14 @@ author_blurb_image:
 ##################
 
 social:
-  - title: "twitter"
-    url: "https://twitter.com/danacristinii"
-  - title: "github"
-    url: "https://github.com/danacr"
-  - title: "facebook"
-    url: "https://facebook.com/acristinii"
+  - title: "linkedin"
+    url: "https://www.linkedin.com/in/danacr/"
   - title: "medium"
     url: "https://medium.com/@danacr"
+  - title: "github"
+    url: "https://github.com/danacr"
+  - title: "twitter"
+    url: "https://twitter.com/danacristinii"
 
 ############
 # 404 page #
@@ -176,10 +176,10 @@ err-404-img: "/img/labtocat.png"
 # Sections shown in the index page
 
 pages_list:
-  About: 'about'
+  # About: 'about'
   #SBlog: 'latest-post'
-  Timeline: 'timeline'
-  Contact: 'contact'
+  # Timeline: 'timeline'
+  # Contact: 'contact'
 
 # Exclusion list from the generated _site
 
