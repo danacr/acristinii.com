@@ -3,7 +3,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://tepr.ch"
+url: "https://acristinii.com"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -29,10 +29,10 @@ force-https: True
 #############
 
 lang: "en"
-author: "Tepr.ch"
-title: "tepr.ch"
-description: "hello"
-keywords: "tepr.ch"
+author: "acristinii.com"
+title: "acristinii.com"
+description: "welcome"
+keywords: "acristinii.com"
 favicon: "/img/favicon.ico"
 
 ################
@@ -56,10 +56,8 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Hello, how are you?"
-  - text: "Hallo wie geht's dir?"
-  - text: "Salut comment allez-vous?"
-  - text: "Ciao, come stai?"
-
+  - text: "Noroc, ce faci?"
+  - text: "Здравствуйте, как поживаете?"
 
 
 #me-img: "/img/jetpacktocat.png"
