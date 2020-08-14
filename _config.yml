@@ -3,7 +3,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://acristinii.com"
+url: "https://tepr.ch"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -29,17 +29,17 @@ force-https: True
 #############
 
 lang: "en"
-author: "Dan Acristinii"
-title: "Dan Acristinii"
-description: "Welcome"
-keywords: "dan, acristinii, personal, resume, cv"
+author: "Tepr.ch"
+title: "tepr.ch"
+description: "hello"
+keywords: "tepr.ch"
 favicon: "/img/favicon.ico"
 
 ################
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+# black-favicon: "/img/black-lab-glass.ico"
 
 # background-img: "../img/bg.jpg"
 
@@ -56,7 +56,11 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Hello, how are you?"
-  - text: "Can I help you?"
+  - text: "Hallo wie geht's dir?"
+  - text: "Salut comment allez-vous?"
+  - text: "Ciao, come stai?"
+
+
 
 #me-img: "/img/jetpacktocat.png"
 
@@ -83,7 +87,7 @@ lines: # You can add HTML Tags in the Text
 ##############################
 # Color the browser elements #
 ##############################
-color-browser: "#000000"
+color-browser: "#00000"
 apple-status-bar-style: "black"
 
 ################
@@ -147,15 +151,15 @@ author_blurb_image:
 # Social Buttons #
 ##################
 
-social:
-  - title: "linkedin"
-    url: "https://www.linkedin.com/in/danacr/"
-  - title: "medium"
-    url: "https://medium.com/@danacr"
-  - title: "github"
-    url: "https://github.com/danacr"
-  - title: "twitter"
-    url: "https://twitter.com/danacristinii"
+# social:
+#   - title: "linkedin"
+#     url: "https://www.linkedin.com/in/danacr/"
+#   - title: "medium"
+#     url: "https://medium.com/@danacr"
+#   - title: "github"
+#     url: "https://github.com/danacr"
+#   - title: "twitter"
+#     url: "https://twitter.com/danacristinii"
 
 ############
 # 404 page #
