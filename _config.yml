@@ -57,8 +57,6 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Hello, how are you?"
   - text: "Noroc, ce faci?"
-  - text: "Здравствуйте, как поживаете?"
-
 
 #me-img: "/img/jetpacktocat.png"
 
